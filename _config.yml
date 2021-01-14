@@ -77,7 +77,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -87,7 +87,9 @@ theme_mode: dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://user-images.githubusercontent.com/38897470/104629004-e1b8b980-56d3-11eb-9cb9-fb6c08cbf0c1.jpg
+avatar: https://user-images.githubusercontent.com/38897470/104634736-fc8f2c00-56db-11eb-8fc4-d981bce9546f.jpg
+
+# https://user-images.githubusercontent.com/38897470/104629004-e1b8b980-56d3-11eb-9cb9-fb6c08cbf0c1.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

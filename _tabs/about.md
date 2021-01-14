@@ -10,7 +10,4 @@ order: 4
 # MIT License
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
-
-I'm 24 years old. Passionate in `CTF and Digital Forensic and Incident Response`. I'm now working at a local information security company in Malaysia doing `digital forensic, incident response and splunk`. I have strong insterest in `digital forensic, incident response, some blue team stuff`. Love offensive security as well as it improve my knowledge and the way I understand how attack works and ease me doing analysis on forensic. :octocat
+Hye, I'm Imran. Just ordinary Capture The Flag player. Passionate in `CTF and Digital Forensic and Incident Response`. I'm now working at a local information security company in Malaysia doing `digital forensic, incident response and splunk`. I have strong insterest in `digital forensic, incident response, some blue team stuff`. Love offensive security as well as it improve my knowledge and the way I understand how attack works and ease me doing analysis on forensic. :octocat:

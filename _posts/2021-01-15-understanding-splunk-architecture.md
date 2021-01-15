@@ -1,5 +1,5 @@
 ---
-title: Understand the Splunk Architecture
+title: "Understand the Splunk Architecture"
 author: Imran Khairuddin
 date: 2021-01-15 21:20:00 +0800
 categories: [Blogging, Tutorial]

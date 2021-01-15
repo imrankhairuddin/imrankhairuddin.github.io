@@ -4,6 +4,7 @@ author: Imran Khairuddin
 date: 2021-01-15 21:20:00 +0800
 categories: [Blogging, Tutorial]
 tags: [splunk]
+---
 
 ### The are three main compenents in Splunk architecture: 
 

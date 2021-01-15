@@ -1,15 +1,12 @@
-
 ---
 title: Understand the Splunk Architecture
 author: Imran Khairuddin
-date: 2021-01-15 21:00:00 +0800
+date: 2021-01-15 21:20:00 +0800
 categories: [Blogging, Tutorial]
 tags: [splunk]
+---
 
-
-
-
-The are three main compenents in Splunk architecture: 
+### The are three main compenents in Splunk architecture: 
 
 1. Search Head
 
@@ -23,13 +20,13 @@ Splunk Indexer is used for parsing and indexing the data. Splunk instance transf
 
 Splunk forwarder is used for data forwarding. This is where all the logs being collected. There are two different types of Splunk Forwarder. 
 
-	1. Universal Forwarder
+  Universal Forwarder
 
-		Universal forwarder is a simple companent that performs minimal processing on the incoming data or logs before forwarding them to indexer.
+	  Universal forwarder is a simple companent that performs minimal processing on the incoming data or logs before forwarding them to indexer.
 
-	2. Heavy Forwarder
+  Heavy Forwarder
 
-		Heavy forwarder can performs processing on the unnecessary data  that can save on bandwith, time and cost. Heavy forwarder taypically does parsing and indexing at the source the forwarding them to indeer which save a nlot of bandwith and storage.
+	  Heavy forwarder can performs processing on the unnecessary data  that can save on bandwith, time and cost. Heavy forwarder taypically does parsing and indexing at the source the forwarding them to indeer which save a nlot of bandwith and storage.
 
 
 
